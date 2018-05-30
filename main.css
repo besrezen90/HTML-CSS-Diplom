@@ -356,6 +356,9 @@ html,
     position: relative;
 }
 
+
+
+
 .featured_nav a:last-child::after {
     display: inline-block;
     width: 14px;
